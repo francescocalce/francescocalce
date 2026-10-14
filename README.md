@@ -34,13 +34,13 @@ Essendo un prodotto con dati di utenti reali, la sicurezza fa parte del design: 
 
 ---
 
-## Altri progetti
+##🖥️ Altri progetti
 
 Trovi i repository dei miei progetti universitari e personali tra i miei repository pubblici qui sotto 👇
 
 ---
 
-## Contatti
+## 📫Contatti
 
 - Email: calce.francesco9@gmail.com
 - LinkedIn: [francesco-calce](https://www.linkedin.com/in/francesco-calce-a75a83229)
