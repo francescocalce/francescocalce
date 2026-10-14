@@ -5,7 +5,7 @@ Sviluppo progetti web e software, sia in autonomia che in team, lavorando su sta
 
 ---
 
-## 🚀 WhaGO — il mio progetto principale
+## WhaGO — il mio progetto principale
 
 **WhaGO** ([whago.it](https://whago.it)) è una piattaforma italiana che raccoglie in un unico posto gli eventi di vita notturna: serate in discoteca, aperitivi, live e feste, organizzati per provincia. 
 Chi cerca una serata trova tutto in una sola pagina. Locali e organizzatori hanno una vetrina con statistiche reali sulle visite al proprio evento.
@@ -34,13 +34,13 @@ Essendo un prodotto con dati di utenti reali, la sicurezza fa parte del design: 
 
 ---
 
-## 🛠️ Altri progetti
+## Altri progetti
 
 Trovi i repository dei miei progetti universitari e personali tra i miei repository pubblici qui sotto 👇
 
 ---
 
-## 📫 Contatti
+## Contatti
 
 - Email: calce.francesco9@gmail.com
 - LinkedIn: [francesco-calce](https://www.linkedin.com/in/francesco-calce-a75a83229)
